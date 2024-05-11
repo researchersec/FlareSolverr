@@ -34,7 +34,7 @@ ACCESS_DENIED_SELECTORS = [
 ]
 CHALLENGE_TITLES = [
     # Cloudflare
-    'Just a moment...',
+    'Just a moment...', 'Et øjeblik ...',
     # DDoS-GUARD
     'DDoS-Guard'
 ]
